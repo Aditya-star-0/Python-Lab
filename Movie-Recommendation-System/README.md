@@ -2,9 +2,9 @@
 
 ## Group Members
 
-Aditya Khamkar  - BT24F05F002
-Chaitanya Bakhal- BT24F05F006
-Amaan Chaudhari - BT24F05F012
+Aditya Khamkar  - BT24F05F002 <br>
+Chaitanya Bakhal- BT24F05F006 <br>
+Amaan Chaudhari - BT24F05F012 <br>
 
 ## Indian Movie Recommendation System
 
